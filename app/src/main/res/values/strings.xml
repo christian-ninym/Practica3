@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CardviewAndReciclerview</string>
+
+    <string name="lista">LISTA</string>
+    <string name="todo">TODO</string>
+    <string name="activo">Activo</string>
+    <string name="codelia">Codelia</string>
+    <string name="colombia">Colombia</string>
+</resources>
